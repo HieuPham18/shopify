@@ -1,0 +1,29 @@
+.main-body{
+    padding: 24px 24px;
+    box-sizing: border-box;
+}
+
+.header-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-main-title-text{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.main-menu{
+    display: flex;
+    align-items: center;
+}
+
+.Card{
+    background-color: red;
+}
+
+
+.Polaris-Button{
+    background-color: yellow;
+}
